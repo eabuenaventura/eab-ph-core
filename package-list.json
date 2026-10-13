@@ -1,0 +1,26 @@
+{
+  "package-id": "ph.core.fhir",
+  "title": "PH Core FHIR Implementation Guide",
+  "canonical": "https://up-manila-silab.github.io/ph-core",
+  "introduction": "Philippine Core FHIR Implementation Guide",
+  "list": [
+    {
+      "version": "dev-3299879c369b49a306064e725de0b5f556512cd2",
+      "date": "2026-10-13",
+      "path": "https://up-manila-silab.github.io/ph-core/dev-3299879c369b49a306064e725de0b5f556512cd2",
+      "status": "draft",
+      "fhirversion": "4.0.1",
+      "sequence": "Draft",
+      "current": true
+    },
+    {
+      "version": "dev-82ff3b8dc21b06bcb68bd628c98e96c259a7360c",
+      "date": "2026-06-17",
+      "path": "https://up-manila-silab.github.io/ph-core/dev-82ff3b8dc21b06bcb68bd628c98e96c259a7360c",
+      "status": "draft",
+      "fhirversion": "4.0.1",
+      "sequence": "Draft",
+      "current": false
+    }
+  ]
+}
